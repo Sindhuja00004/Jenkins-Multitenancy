@@ -1,4 +1,4 @@
-                                                          MULTITENANCY IN JENKINS
+                                                    MULTITENANCY IN JENKINS
 
 We can onboard multiple customer users to Jenkins using Role-based Authorization Strategy Plugin. The Role Strategy plugin is meant to add a new role-based mechanism to manage users' permissions. 
 
