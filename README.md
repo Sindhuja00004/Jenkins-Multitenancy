@@ -33,7 +33,8 @@ Folder Plugin: This plugin allows users to create "folders" to organize jobs.
 
 •	Add the user to Item roles and assign the role to user. This ensures specific user will access the pattern which is created under mange role. Now, user can create job and build the jobs. 
 
-![image](https://user-images.githubusercontent.com/95271479/217834622-b0288b16-a2dd-4920-a1fa-1ce39bf60d4a.png)   ![image](https://user-images.githubusercontent.com/95271479/217834709-dd1a448c-9f0d-4691-aab1-f70ed7c5008b.png)
+![image](https://user-images.githubusercontent.com/95271479/217834622-b0288b16-a2dd-4920-a1fa-1ce39bf60d4a.png)   ![image](https://user-images.githubusercontent.com/95271479/218018847-c5aa43da-6fe1-4b82-9c3a-43454aef0b9a.png)
+
 
 •	We recommend using folder plugin create folder and create pattern which applies to the folder, this approach eliminate the dependency of prefix which is followed to create the jobs with the pattern.  
  
